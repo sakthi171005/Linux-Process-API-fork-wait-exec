@@ -13,4 +13,5 @@ int main() {
         printf("I am parent, my PID is %d\n", getpid()); 
         wait(NULL); 
     }
-}//C Program to create new process using Linux API system calls fork() and exit()
+}
+
