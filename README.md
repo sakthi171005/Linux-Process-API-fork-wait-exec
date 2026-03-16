@@ -48,7 +48,7 @@ int main() {
 
 ## OUTPUT
 
-![Alt text](img/forkcheck.png)
+![Alt text](<Screenshot at 2026-03-16 09-49-44.png>)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 
@@ -100,7 +100,7 @@ int main() {
 
 ## OUTPUT
 
-![Alt text](img/execcheck.png)
+![Alt text](<Screenshot at 2026-03-16 09-51-54.png>)
 
 # RESULT:
 The programs are executed successfully.
